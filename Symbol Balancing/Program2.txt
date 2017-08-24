@@ -1,0 +1,3 @@
+The big O running time for this method would be O(n) for transferring the data from Stack1 (input) to Stack2(output)
+
+Dequeue and Enqueue is O(1) because you do that instantaneously using pop and push method 
